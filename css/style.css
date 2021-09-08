@@ -417,6 +417,7 @@ ul.style2 li:first-child {
 
 .fa-whatsapp-square:hover {
   color: rgb(0, 168, 22);
+  cursor: pointer;
 }
 
 .fa-whatsapp-square:active {
